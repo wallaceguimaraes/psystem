@@ -1,0 +1,7 @@
+.scroll{
+    overflow-x: auto;
+}
+
+.collapse-item.active{
+    color: var(--bs-link-color) !important;
+}
